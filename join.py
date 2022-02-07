@@ -10,7 +10,6 @@ from selenium.webdriver.chrome.options import Options
 #zoom link must contain wc else it will ask to open zoom app and selenium can't handle that.
 #this works in web.
 classLink = 
-
 PATH = "C:\Program Files (x86)\chromedriver.exe"
 
 opt = Options()
